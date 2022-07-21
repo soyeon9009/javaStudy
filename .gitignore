@@ -1,0 +1,4 @@
+# 프로젝트 제외 경로
+/javaStudy/.gradle/
+/javaStudy/build/
+/javaStudy/build/classes/java/main/
